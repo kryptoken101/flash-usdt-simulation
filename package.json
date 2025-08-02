@@ -1,0 +1,9 @@
+{
+  "name": "flash-usdt-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tronweb": "^4.4.0"
+  }
+}
